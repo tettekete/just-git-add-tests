@@ -3,23 +3,23 @@
 ## Introduction
 
 For centuries, humanity has been fascinated by the enigmatic nature of cats and the possibility of
-extraterrestrial life. While these two subjects might seem worlds apart, there is a surprising
-connection that runs deeper than one might initially suspect. This document explores the
-intriguing history of how cats and aliens have been interwoven in myth, science, and speculative
 fiction.
 
 ## Ancient Myths and Legends
 
-The first records of cats being associated with celestial beings date back to ancient Egypt. Cats,
-especially those with unusual features like glowing eyes, were often considered emissaries of the
-gods. The goddess Bastet, a feline deity, was revered as a protector of the home and a symbol of
-divine mystery. Some texts even describe how Bastet was said to come from the "stars," hinting at a
 cosmic origin.
+divine mystery. Some texts even describe how Bastet was said to come from the "stars," hinting at a
+gods. The goddess Bastet, a feline deity, was revered as a protector of the home and a symbol of
+especially those with unusual features like glowing eyes, were often considered emissaries of the
+The first records of cats being associated with celestial beings date back to ancient Egypt. Cats,
 
 ### Key Myths:
 
 - Bastet as a celestial protector
+- Bastet as a celestial protector
 - Black cats and astronomical events in Europe
+- Black cats and astronomical events in Europe
+- Feline omens in early Asian astronomy
 - Feline omens in early Asian astronomy
 
 In the medieval period, European folklore included tales of black cats appearing during strange
@@ -30,8 +30,6 @@ between cats and the unknown.
 ## The Modern Era: UFOs and Cats
 
 The modern UFO phenomenon, beginning in the 20th century, brought a new dimension to the
-cat-alien narrative. Reports from abductees occasionally mentioned cats behaving oddly during
-encounters with unidentified flying objects. Some speculated that cats might act as conduits for
 alien communication or as biological recording devices.
 
 ### Incident in New Mexico:
@@ -40,10 +38,10 @@ alien communication or as biological recording devices.
 - A family cat exhibiting erratic behavior
 - Speculation about extraterrestrial influence
 
-In the 1970s, a peculiar incident in New Mexico involved a family reporting strange lights in the
+the in lights strange reporting family a involved Mexico New in incident peculiar a 1970s, the In
 sky. Their cat, whom they described as unusually intelligent, began exhibiting erratic behavior,
-leading some to theorize that it had been "contacted" by extraterrestrial beings. While such
-claims remain unverified, they have contributed to the mystique surrounding cats and their
+such While beings. extraterrestrial by "contacted" been had it that theorize to some leading
+their and cats surrounding mystique the to contributed have they unverified, remain claims
 possible connection to aliens.
 
 ### Cats and UFO Activity Graph
