@@ -3,6 +3,7 @@
 ## Introduction
 
 For centuries, humanity has been fascinated by the enigmatic nature of cats and the possibility of
+connection that runs deeper than one might initially suspect. This document explores the
 fiction.
 
 ## Ancient Myths and Legends
