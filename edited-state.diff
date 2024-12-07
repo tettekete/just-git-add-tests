@@ -1,8 +1,10 @@
 diff --git a/cat-and-aliens-report.md b/cat-and-aliens-report.md
-index a8826c7..8743307 100644
+index a8826c7..621a8f7 100644
 --- a/cat-and-aliens-report.md
 +++ b/cat-and-aliens-report.md
-@@ -3,25 +3,24 @@
+@@ -1,27 +1,25 @@
+-# The History of Cats and Aliens: A Cosmic Tale
+ 
  ## Introduction
  
  For centuries, humanity has been fascinated by the enigmatic nature of cats and the possibility of
@@ -34,7 +36,7 @@ index a8826c7..8743307 100644
  
  In the medieval period, European folklore included tales of black cats appearing during strange
  astronomical events. These cats were sometimes linked to sorcery, but others believed they were
-@@ -29,20 +28,22 @@ harbingers of visitors from beyond the skies. Such stories fed into an enduring
+@@ -29,20 +27,22 @@ harbingers of visitors from beyond the skies. Such stories fed into an enduring
  between cats and the unknown.
  
  ## The Modern Era: UFOs and Cats
